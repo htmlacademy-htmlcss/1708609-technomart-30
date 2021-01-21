@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Краснов Георгий](https://up.htmlacademy.ru/htmlcss/30/user/1708609).
-* Наставник: [Илья Полеутов] (https://htmlacademy.ru/profile/id1184577).
+* Наставник: [Илья Полетуев] (https://htmlacademy.ru/profile/id1184577).
 
 ---
 
